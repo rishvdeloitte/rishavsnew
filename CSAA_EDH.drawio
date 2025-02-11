@@ -127,7 +127,7 @@
             <mxPoint x="230.00000000000037" y="43.860000000000255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0H2y0_2EXmDvVcCev98S-32" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Marketing&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0H2y0_2EXmDvVcCev98S-32" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Marketing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-470" y="-370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0H2y0_2EXmDvVcCev98S-37" value="Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -318,6 +318,12 @@
             <mxPoint x="-210" y="-70" as="sourcePoint" />
             <mxPoint x="-160" y="-120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0H2y0_2EXmDvVcCev98S-92" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="210" width="450" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0H2y0_2EXmDvVcCev98S-94" value="Financial Transformation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="210.00000000000045" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
