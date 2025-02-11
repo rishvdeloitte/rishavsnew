@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.11">
   <diagram name="Page-1" id="kRAGbB4GnQMMaRT2yMuc">
-    <mxGraphModel dx="2160" dy="2972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3470" dy="3743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -340,8 +340,8 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="0H2y0_2EXmDvVcCev98S-94" value="&lt;b&gt;Financial Transformation&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="155.00000000000045" width="60" height="30" as="geometry" />
+        <mxCell id="0H2y0_2EXmDvVcCev98S-94" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Financial Transformation&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="108.00000000000045" width="60" height="30" as="geometry" />
         </mxCell>
         <UserObject label="" id="x8S57T6ln9iAfIoPM7LD-23">
           <mxCell style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.217;entryY=0.913;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x8S57T6ln9iAfIoPM7LD-24" target="wsq4JRYlVpnwA_xUPwAn-1">
@@ -908,7 +908,7 @@
           <mxGeometry x="-620" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mxy_NZkaM4QJOVwmbocq-1" value="MRMMKPRD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="-176.16" width="140" height="60" as="geometry" />
+          <mxGeometry x="1030" y="-85" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8_OtSueetFYeLxOElodD-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8_OtSueetFYeLxOElodD-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1032,6 +1032,15 @@
             <mxPoint x="220" y="-70" as="sourcePoint" />
             <mxPoint x="270" y="-120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0H2y0_2EXmDvVcCev98S-194" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0H2y0_2EXmDvVcCev98S-195" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Customer360&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="-182.16000000000003" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0H2y0_2EXmDvVcCev98S-197" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Guidewire&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="324.99999999999994" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
