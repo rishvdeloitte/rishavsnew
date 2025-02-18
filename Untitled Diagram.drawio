@@ -220,6 +220,12 @@
         <mxCell id="VsWn_zQ_5K-JtCPvT7dE-60" value="&lt;h3&gt;EXTRACTS&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=#d6b656;fontColor=light-dark(#c45454, #ededed);" vertex="1" parent="1">
           <mxGeometry x="1491" y="811" width="97" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aQ3M2HCFeMi3zt5gj3iA-24" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon2;" vertex="1" parent="1">
+          <mxGeometry x="2047.5" y="253" width="108" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="aQ3M2HCFeMi3zt5gj3iA-25" value="Actuarial Team" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2045" y="337" width="113" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
