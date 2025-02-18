@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Page-1" id="NFFxarhEMAOD1l_7tfLz">
-    <mxGraphModel dx="2980" dy="1338" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="1432" dy="775" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H72tR1E3pKzzqcasz0yh-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-46" y="806.5" width="206" height="309" as="geometry" />
+        </mxCell>
         <mxCell id="aQ3M2HCFeMi3zt5gj3iA-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="814" y="569" width="189" height="156" as="geometry" />
-        </mxCell>
-        <mxCell id="VsWn_zQ_5K-JtCPvT7dE-3" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" parent="1" vertex="1">
-          <mxGeometry x="-66" y="863" width="229" height="224" as="geometry" />
         </mxCell>
         <mxCell id="sHkjBtiZ9pyr3r2fbtkL-20" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Oracle_Database.svg;direction=south;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="868.5" y="583" width="80" height="80" as="geometry" />
