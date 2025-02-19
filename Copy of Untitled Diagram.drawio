@@ -298,6 +298,12 @@
         <mxCell id="7u8UYTtP8iTHZMTXtKoZ-126" value="&lt;h3&gt;FIH TEAM&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1025.63" y="1280" width="149" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="7u8UYTtP8iTHZMTXtKoZ-129" value="&lt;h2&gt;AWS S3&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="549.12" width="143" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="7u8UYTtP8iTHZMTXtKoZ-130" value="&lt;h2&gt;AWS S3&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="73.5" y="1123" width="143" height="59" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
