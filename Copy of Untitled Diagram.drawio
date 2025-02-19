@@ -506,9 +506,6 @@
         <mxCell id="26kj5zomxw-KUQW56EoG-52" value="&lt;h3&gt;AXWAY&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-27" y="1876" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bNVUpWErRLao-czq5LvX-18" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1700" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="bNVUpWErRLao-czq5LvX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="bNVUpWErRLao-czq5LvX-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-97.4285714285711" y="2380.8094656808034" as="targetPoint" />
