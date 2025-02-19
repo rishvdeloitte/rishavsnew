@@ -9,6 +9,11 @@
             <mxPoint x="1403.3334350585938" y="664" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="bNVUpWErRLao-czq5LvX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" target="YCpYhg3FuT8QCnEtmcJK-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1245.4287458147328" y="426.5237513950892" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YCpYhg3FuT8QCnEtmcJK-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="YCpYhg3FuT8QCnEtmcJK-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="733" y="498" as="sourcePoint" />
@@ -514,6 +519,28 @@
         </mxCell>
         <mxCell id="bNVUpWErRLao-czq5LvX-20" value="IVANS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-247.28" y="2516" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bNVUpWErRLao-czq5LvX-33" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="602" y="567" as="sourcePoint" />
+            <mxPoint x="652" y="517" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="652" y="567" />
+              <mxPoint x="602" y="517" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bNVUpWErRLao-czq5LvX-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="602" y="567" as="sourcePoint" />
+            <mxPoint x="652" y="517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bNVUpWErRLao-czq5LvX-36" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;" vertex="1" parent="1">
+          <mxGeometry x="1245.19" y="366" width="73" height="79.84" as="geometry" />
+        </mxCell>
+        <mxCell id="bNVUpWErRLao-czq5LvX-37" value="MARKETING" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1222" y="443" width="113" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
